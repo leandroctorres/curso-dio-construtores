@@ -1,0 +1,16 @@
+C:\workspace\C#\construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.exe
+C:\workspace\C#\construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.deps.json
+C:\workspace\C#\construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.json
+C:\workspace\C#\construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.dev.json
+C:\workspace\C#\construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.dll
+C:\workspace\C#\construtores\ExemploConstrutores\bin\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\workspace\C#\construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.pdb
+C:\workspace\C#\construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\workspace\C#\construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\workspace\C#\construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfo.cs
+C:\workspace\C#\construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\workspace\C#\construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.dll
+C:\workspace\C#\construtores\ExemploConstrutores\obj\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\workspace\C#\construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.pdb
+C:\workspace\C#\construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.genruntimeconfig.cache
